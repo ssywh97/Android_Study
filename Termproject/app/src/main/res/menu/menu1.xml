@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemWakgood"
+        android:title="우왁굳이 누구야?">
+    </item>
+
+    <item
+        android:id="@+id/itemAngel"
+        android:title="엔젤님은 누구야?">
+    </item>
+
+    <item
+        android:id="@+id/itemMessi"
+        android:title="메시는 누구야?">
+    </item>
+
+</menu>
